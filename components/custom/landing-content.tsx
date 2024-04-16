@@ -19,15 +19,13 @@ const testimonials = [
     name: "Mark",
     avatar: "M",
     title: "CEO",
-    description:
-      "This app has changed my life, cannot imagine working without it!",
+    description: "背带侠,化坤掌",
   },
   {
     name: "Mary",
     avatar: "M",
     title: "CFO",
-    description:
-      "The best in class, definitely worth the premium subscription!",
+    description: "铁山靠",
   },
 ];
 
